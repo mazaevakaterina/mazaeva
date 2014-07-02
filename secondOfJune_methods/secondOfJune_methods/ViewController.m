@@ -1,8 +1,8 @@
 //
-//  ViewController.m/Users/itisioslab/Desktop/Ka/Ka/ViewController.m
-//  Ka
+//  ViewController.m
+//  secondOfJune_methods
 //
-//  Created by itisioslab on 01.07.14.
+//  Created by itisioslab on 02.07.14.
 //  Copyright (c) 2014 ___FULLUSERNAME___. All rights reserved.
 //
 
@@ -17,9 +17,6 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    self.label.text=_l;
-    self.imagE.image = [UIImage imageNamed: _im];
-    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
@@ -29,8 +26,4 @@
     // Dispose of any resources that can be recreated.
 }
 
-- (IBAction)второйэкран:(id)sender {
-}
-- (IBAction)экран:(id)sender {
-}
 @end

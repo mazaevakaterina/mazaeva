@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		23D6D6B41964095F00618541 /* TableViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 23D6D6B31964095F00618541 /* TableViewController2.m */; };
+		23D6D6BA1964117C00618541 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23D6D6B81964117C00618541 /* ViewController.m */; };
+		23D6D6C11964213C00618541 /* ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 23D6D6C01964213C00618541 /* ViewController2.m */; };
 		23DFF3A519628F0A004473D9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23DFF3A419628F0A004473D9 /* Foundation.framework */; };
 		23DFF3A719628F0A004473D9 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23DFF3A619628F0A004473D9 /* CoreGraphics.framework */; };
 		23DFF3A919628F0A004473D9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23DFF3A819628F0A004473D9 /* UIKit.framework */; };
@@ -15,13 +18,17 @@
 		23DFF3B519628F0A004473D9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 23DFF3B419628F0A004473D9 /* AppDelegate.m */; };
 		23DFF3B819628F0A004473D9 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23DFF3B619628F0A004473D9 /* Main_iPhone.storyboard */; };
 		23DFF3BB19628F0A004473D9 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23DFF3B919628F0A004473D9 /* Main_iPad.storyboard */; };
-		23DFF3BE19628F0A004473D9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23DFF3BD19628F0A004473D9 /* ViewController.m */; };
 		23DFF3C019628F0A004473D9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23DFF3BF19628F0A004473D9 /* Images.xcassets */; };
 		23DFF3C719628F0A004473D9 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23DFF3C619628F0A004473D9 /* XCTest.framework */; };
 		23DFF3C819628F0A004473D9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23DFF3A419628F0A004473D9 /* Foundation.framework */; };
 		23DFF3C919628F0A004473D9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23DFF3A819628F0A004473D9 /* UIKit.framework */; };
 		23DFF3D119628F0A004473D9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 23DFF3CF19628F0A004473D9 /* InfoPlist.strings */; };
 		23DFF3D319628F0A004473D9 /* KaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 23DFF3D219628F0A004473D9 /* KaTests.m */; };
+		23DFF3DF1962B789004473D9 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23DFF3DD1962B789004473D9 /* TableViewController.m */; };
+		23DFF3E21962DB07004473D9 /* iphone360_328.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23DFF3E11962DB07004473D9 /* iphone360_328.jpg */; };
+		23DFF3E41962DB16004473D9 /* iphone360_322.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23DFF3E31962DB16004473D9 /* iphone360_322.jpg */; };
+		23DFF3E71962E011004473D9 /* iphone360_2360.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23DFF3E51962E011004473D9 /* iphone360_2360.jpg */; };
+		23DFF3E81962E011004473D9 /* iphone360_512883.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23DFF3E61962E011004473D9 /* iphone360_512883.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +42,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		23D6D6B21964095F00618541 /* TableViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController2.h; sourceTree = "<group>"; };
+		23D6D6B31964095F00618541 /* TableViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController2.m; sourceTree = "<group>"; };
+		23D6D6B81964117C00618541 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		23D6D6BF1964213C00618541 /* ViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController2.h; sourceTree = "<group>"; };
+		23D6D6C01964213C00618541 /* ViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController2.m; sourceTree = "<group>"; };
 		23DFF3A119628F0A004473D9 /* Ka.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ka.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23DFF3A419628F0A004473D9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		23DFF3A619628F0A004473D9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -48,13 +60,18 @@
 		23DFF3B719628F0A004473D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
 		23DFF3BA19628F0A004473D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
 		23DFF3BC19628F0A004473D9 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		23DFF3BD19628F0A004473D9 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		23DFF3BF19628F0A004473D9 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		23DFF3C519628F0A004473D9 /* KaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		23DFF3C619628F0A004473D9 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		23DFF3CE19628F0A004473D9 /* KaTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "KaTests-Info.plist"; sourceTree = "<group>"; };
 		23DFF3D019628F0A004473D9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		23DFF3D219628F0A004473D9 /* KaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KaTests.m; sourceTree = "<group>"; };
+		23DFF3DC1962B789004473D9 /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		23DFF3DD1962B789004473D9 /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
+		23DFF3E11962DB07004473D9 /* iphone360_328.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = iphone360_328.jpg; path = ../../../Downloads/iphone360_328.jpg; sourceTree = "<group>"; };
+		23DFF3E31962DB16004473D9 /* iphone360_322.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = iphone360_322.jpg; path = ../../../Downloads/iphone360_322.jpg; sourceTree = "<group>"; };
+		23DFF3E51962E011004473D9 /* iphone360_2360.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = iphone360_2360.jpg; path = ../../../Downloads/iphone360_2360.jpg; sourceTree = "<group>"; };
+		23DFF3E61962E011004473D9 /* iphone360_512883.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = iphone360_512883.jpg; path = ../../../Downloads/iphone360_512883.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,12 +131,22 @@
 		23DFF3AA19628F0A004473D9 /* Ka */ = {
 			isa = PBXGroup;
 			children = (
-				23DFF3B319628F0A004473D9 /* AppDelegate.h */,
-				23DFF3B419628F0A004473D9 /* AppDelegate.m */,
+				23DFF3E51962E011004473D9 /* iphone360_2360.jpg */,
+				23DFF3E61962E011004473D9 /* iphone360_512883.jpg */,
+				23DFF3E31962DB16004473D9 /* iphone360_322.jpg */,
+				23DFF3E11962DB07004473D9 /* iphone360_328.jpg */,
 				23DFF3B619628F0A004473D9 /* Main_iPhone.storyboard */,
 				23DFF3B919628F0A004473D9 /* Main_iPad.storyboard */,
+				23DFF3B319628F0A004473D9 /* AppDelegate.h */,
+				23DFF3B419628F0A004473D9 /* AppDelegate.m */,
 				23DFF3BC19628F0A004473D9 /* ViewController.h */,
-				23DFF3BD19628F0A004473D9 /* ViewController.m */,
+				23D6D6BF1964213C00618541 /* ViewController2.h */,
+				23D6D6B81964117C00618541 /* ViewController.m */,
+				23D6D6C01964213C00618541 /* ViewController2.m */,
+				23DFF3DC1962B789004473D9 /* TableViewController.h */,
+				23D6D6B21964095F00618541 /* TableViewController2.h */,
+				23DFF3DD1962B789004473D9 /* TableViewController.m */,
+				23D6D6B31964095F00618541 /* TableViewController2.m */,
 				23DFF3BF19628F0A004473D9 /* Images.xcassets */,
 				23DFF3AB19628F0A004473D9 /* Supporting Files */,
 			);
@@ -231,9 +258,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				23DFF3E71962E011004473D9 /* iphone360_2360.jpg in Resources */,
+				23DFF3E81962E011004473D9 /* iphone360_512883.jpg in Resources */,
+				23DFF3E41962DB16004473D9 /* iphone360_322.jpg in Resources */,
 				23DFF3BB19628F0A004473D9 /* Main_iPad.storyboard in Resources */,
 				23DFF3C019628F0A004473D9 /* Images.xcassets in Resources */,
 				23DFF3B819628F0A004473D9 /* Main_iPhone.storyboard in Resources */,
+				23DFF3E21962DB07004473D9 /* iphone360_328.jpg in Resources */,
 				23DFF3AF19628F0A004473D9 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -253,9 +284,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				23DFF3BE19628F0A004473D9 /* ViewController.m in Sources */,
 				23DFF3B519628F0A004473D9 /* AppDelegate.m in Sources */,
 				23DFF3B119628F0A004473D9 /* main.m in Sources */,
+				23D6D6B41964095F00618541 /* TableViewController2.m in Sources */,
+				23DFF3DF1962B789004473D9 /* TableViewController.m in Sources */,
+				23D6D6BA1964117C00618541 /* ViewController.m in Sources */,
+				23D6D6C11964213C00618541 /* ViewController2.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -470,6 +504,7 @@
 				23DFF3D819628F0A004473D9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		23DFF3D919628F0A004473D9 /* Build configuration list for PBXNativeTarget "KaTests" */ = {
 			isa = XCConfigurationList;
@@ -478,6 +513,7 @@
 				23DFF3DB19628F0A004473D9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
